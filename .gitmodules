@@ -1,0 +1,6 @@
+[submodule "noname"]
+	path = noname
+	url = git@github.com:crowdos/noname
+[submodule "whynot"]
+	path = whynot
+	url = git@github.com:crowdos/whynot
