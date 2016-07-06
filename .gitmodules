@@ -4,3 +4,6 @@
 [submodule "whynot"]
 	path = whynot
 	url = git@github.com:crowdos/whynot
+[submodule "qtbase"]
+	path = qtbase
+	url = git@github.com:crowdos/qtbase.git
